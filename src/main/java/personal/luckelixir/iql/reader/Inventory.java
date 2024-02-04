@@ -1,4 +1,4 @@
-package personal.imperfectcoder0.iql.reader;
+package personal.luckelixir.iql.reader;
 
 import org.jetbrains.annotations.NotNull;
 

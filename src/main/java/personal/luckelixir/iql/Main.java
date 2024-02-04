@@ -1,4 +1,4 @@
-package personal.imperfectcoder0.iql;
+package personal.luckelixir.iql;
 import java.util.Objects;
 import java.util.Scanner;
 

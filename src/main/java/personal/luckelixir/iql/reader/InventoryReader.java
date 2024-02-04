@@ -1,6 +1,6 @@
-package personal.imperfectcoder0.iql.reader;
+package personal.luckelixir.iql.reader;
 
-import personal.imperfectcoder0.iql.parser.Commands;
+import personal.luckelixir.iql.parser.Commands;
 import jmatrix.matrix.Matrix;
 
 import java.io.*;

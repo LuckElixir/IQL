@@ -1,4 +1,4 @@
-package personal.imperfectcoder0.iql.parser;
+package personal.luckelixir.iql.parser;
 
 import java.util.List;
 
